@@ -1,13 +1,25 @@
 {
   "name": "gtps-bot",
   "version": "1.0.0",
-  "description": "Bot Discord untuk GTPS",
+  "description": "Bot Discord untuk GTPS dengan API GrowSoft",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "discord",
+    "bot",
+    "gtps",
+    "growtopia"
+  ],
+  "author": "NamaAnda",
+  "license": "MIT",
   "dependencies": {
     "discord.js": "^14.14.1",
     "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
