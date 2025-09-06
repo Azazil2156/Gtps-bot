@@ -11,7 +11,7 @@ const client = new Client({
 });
 
 // Konfigurasi
-const DISCORD_TOKEN = process.env.MTQxMzczNjM4ODUzNjU2OTkwNg.GnQ85J.jZ8nuMErKXm2BcORD29a0wpDayX-PMagvkrVEo; // Ambil dari environment variable
+const DISCORD_TOKEN = process.env.MTQxMzczNjM4ODUzNjU2OTkwNg.GEfqZP.GNI8Rjci0ZlB3LqXh0V46u5yWDh8_AKyO9xXuU; // Ambil dari environment variable
 const GTPS_API_URL = 'https://growsoft-docs.vercel.app';
 
 // Event ketika bot ready
